@@ -42,3 +42,7 @@ section {
 .pad {
     padding: 16px;
 }
+
+.bg-blue {
+    background-color: cadetblue;
+}
